@@ -134,7 +134,6 @@
                                     <?php
                                 }
                             ?>
-                            
                         </div>
 
                         <div class="food-menu-desc">
